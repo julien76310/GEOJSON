@@ -2,8 +2,8 @@
     "NOM_DATA": "Taux de vaccination anti-grippale",
     "DATE_DATA": "Situation à début janvier 2023",
     "TAUX_DEPARTEMENT": "43",
-    "NB_BENEF_TITRE": "Nombre de personnes de +65 ans vaccinées",
-    "TAUX_BENEF_TITRE": "Taux de personnes de +65 ans vaccinées"
+    "NB_BENEF_TITRE": "Nombre des +65 ans vaccinées",
+    "TAUX_BENEF_TITRE": "Taux des +65 ans vaccinées"
   },
   {
     "CODE_EPCI": 200010700,
