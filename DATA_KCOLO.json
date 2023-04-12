@@ -2,8 +2,8 @@
     "NOM_DATA": "Taux de dépistage du cancer colorectal",
     "DATE_DATA": "Situation à début janvier 2023",
     "TAUX_DEPARTEMENT": "29.5",
-    "NB_BENEF_TITRE": "Nombre de personnes concernées par le dépistage",
-    "TAUX_BENEF_TITRE": "Taux de personnes concernées par le dépistage"
+    "NB_BENEF_TITRE": "Nombre de personnes concernées",
+    "TAUX_BENEF_TITRE": "Taux de personnes concernées"
   },
   {
     "CODE_EPCI": 200010700,
