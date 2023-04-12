@@ -1,17 +1,16 @@
-[
+[ {
+    "NOM_DATA": "Taux de recours au soins dentaires des jeunes de 3 à 24 ans",
+    "DATE_DATA": "Situation à début janvier 2023",
+    "TAUX_DEPARTEMENT": "57.7",
+    "NB_BENEF_TITRE": "Nombre de jeunes de 3 à 24 ans",
+    "TAUX_BENEF_TITRE": "Taux de jeunes de 3 à 24 ans"
+  },
   {
     "CODE_EPCI": 200010700,
     "NOM_EPCI": "CA Caux Seine Agglo",
     "TYPE_EPCI": "CA",
     "NB_BENEF": 3794,
     "TAUX_BENEF": "56,20%"
-  },
-  {
-    "CODE_EPCI": 200066405,
-    "NOM_EPCI": "CC Roumois Seine",
-    "TYPE_EPCI": "CC",
-    "NB_BENEF": "",
-    "TAUX_BENEF": ""
   },
   {
     "CODE_EPCI": 200068534,
