@@ -1,17 +1,16 @@
-[
+[ {
+    "NOM_DATA": "Taux de vaccination anti-grippale",
+    "DATE_DATA": "Situation à début janvier 2023",
+    "TAUX_DEPARTEMENT": "43",
+    "NB_BENEF_TITRE": "Nombre de personnes de +65 ans vaccinées",
+    "TAUX_BENEF_TITRE": "Taux de personnes de +65 ans vaccinées"
+  },
   {
     "CODE_EPCI": 200010700,
     "NOM_EPCI": "CA Caux Seine Agglo",
     "TYPE_EPCI": "CA",
     "NB_BENEF": 8439,
     "TAUX_BENEF": "62,30%"
-  },
-  {
-    "CODE_EPCI": 200066405,
-    "NOM_EPCI": "CC Roumois Seine",
-    "TYPE_EPCI": "CC",
-    "NB_BENEF": "",
-    "TAUX_BENEF": ""
   },
   {
     "CODE_EPCI": 200068534,
